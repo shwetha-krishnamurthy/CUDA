@@ -1,4 +1,4 @@
-Code demonstrating thread synchronization. 
+Code demonstrating thread synchronization. http://cse.iitkgp.ac.in/~soumya/hp3/assignment2a.html
 
 # Problem Statement
 
